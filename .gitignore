@@ -6,6 +6,7 @@
 ._*
 .Spotlight-V100
 .Trashes
+Thumbs.db
 
 # Environment variables (Contains sensitive credentials, API keys, etc.)
 .secrets/
@@ -44,10 +45,6 @@ yarn-error.log*
 *.log
 logs/
 
-# ==========================================
-# Development Tools & OS Files
-# ==========================================
-
 # IDEs and editors
 .vscode/
 .idea/
@@ -56,7 +53,3 @@ logs/
 *.njsproj
 *.sln
 *.swp
-
-# Operating System files
-.DS_Store
-Thumbs.db
