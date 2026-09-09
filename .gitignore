@@ -1,11 +1,11 @@
  # .gitignore
 .secrets/
 .env
-/bin
-/certs
-/chisel
-/compose
-/tls
-.db
-.key
-.pub
+bin/
+certs/
+chisel/
+compose/
+tls/
+*.db
+*.key
+*.pub
